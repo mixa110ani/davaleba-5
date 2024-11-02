@@ -67,6 +67,7 @@ font-weight: 400;
 color: #8D81FF;
 margin-left: 52px;
 margin-bottom: 35px;
+font-family: "BPG Nostalgia", sans-serif;
 }
 
 .satauri{
@@ -74,7 +75,7 @@ font-size: 20px;
 font-weight: 700;
 color: #4E6FAE;
 margin-left: 52px;
-
+font-family: "BPG Nostalgia", sans-serif;
 }
 
 .surati{
@@ -95,6 +96,8 @@ box-sizing: border-box;
 width: 900px;
 height: 281px ;
 margin-right: 97px;
+font-family: "BPG Square", sans-serif;
+
 }
 
 div{
@@ -121,6 +124,9 @@ box-sizing: border-box;
 width: 900px;
 height: 281px ;
 margin-right: 97px;
+font-family: "BPG Square", sans-serif;
+
+
 
 }
 
